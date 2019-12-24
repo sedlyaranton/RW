@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WC</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_menu">Справка</string>
+    <string name="title_activity_tabel">Tabel</string>
+    <string name="text_btn_save">Сохранить</string>
+    <string name="text_btn_save_cancellation"> Отмена </string>
+    <string name="text_date">Устоновите дату</string>
+    <string name="text_clok">Устоновите время</string>
+    <string name="text_text">Описание работы</string>
+</resources>
